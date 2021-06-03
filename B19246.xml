@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two proclamations by the King the first declaring His Maiesties expresse command that no popish recusant, nor any other who shall refuse to take the two oathes of allegiance and supreamacy shall serve him in his army : and that the souldiary commit no rapiacs upon the people but bee fitly provided of necessaries for their money : the second for putting the lawes against popish recusants in due execution.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19246</idno><idno type="EEBO-CITATION">12258807</idno>
+  <idno type="VID">197493</idno>
+  <idno type="EEBO-PROQUEST">2240962944</idno>
+  
+            <idno type="STC">Wing C2858</idno>
+            <idno type="OCLC">12258807</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19246)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197493)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 246:E112, no 22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two proclamations by the King the first declaring His Maiesties expresse command that no popish recusant, nor any other who shall refuse to take the two oathes of allegiance and supreamacy shall serve him in his army : and that the souldiary commit no rapiacs upon the people but bee fitly provided of necessaries for their money : the second for putting the lawes against popish recusants in due execution.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Reprinted for Iohn Thomas,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Originally published : York : 1642?</note>
+                  <note>The first proclamation is a reprint of Steele 2243 (England), originally published with title "By the King. A proclamation declaring His Majesties expresse command..." (1642); also published with title "His Maiesties proclamation declaring his expresse command..." (1642)</note>
+                  <note>The second proclamation is a reprint of Steele 2039 (England).</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197493:1"/>
+            <p>TWO PROCLAMATIONS By the King.</p>
+            <p>The first declaring His Ma<g ref="char:EOLhyphen"/>iesties expresse Command, That no Popish Recusant, not any other, who shall refuse to take the two Oathes of Allegiance and su<g ref="char:EOLhyphen"/>preamacy, shall serve Him in His Army. And that the Soul<g ref="char:EOLhyphen"/>diery commit no Rapines upon the People, but bee fitly provided of necessaries for their Money.</p>
+            <p>The second, for putting the Lawes against Popish Recu<g ref="char:EOLhyphen"/>sants in due execution.</p>
+            <p>First Printed at <hi>Yorke,</hi> and now reprinted for <hi>Iohn Thomas.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:197493:2"/>
+            <pb n="3" facs="tcp:197493:2"/>
+            <head>❧ By the King.</head>
+            <head>
+               <figure>
+                  <figDesc>Tudor rose surmounted by a crown</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>Scottish thistle surmounted by a crown</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>French fleur-de-lis surmounted by a crown</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>Irish harp surmounted by a crown</figDesc>
+               </figure>
+            </head>
+            <head type="sub">A PROCLAMATION declaring His Majesties ex<g ref="char:EOLhyphen"/>presse Command, That no Popish Recusant, nor any other, who shall refuse to take the two Oathes of Allegiance and Supremacy, shall serve Him in His Army. And that the Souldiery commit no Rapines upon the People, but be fitly provided of neces<g ref="char:EOLhyphen"/>saries for their money.</head>
+            <p>WHereas Wee heretofore, by Our Pro<g ref="char:EOLhyphen"/>clamation, straightly charged and Commanded, That the Lawes should bee put into due Execution against Popish Recu<g ref="char:EOLhyphen"/>sants, and Wee have, and shall have it still in Our
+<pb n="4" facs="tcp:197493:3"/>care, to suppresse and prevent the growth of Pope<g ref="char:EOLhyphen"/>ry, and to use all good meanes that may tend there<g ref="char:EOLhyphen"/>unto, and not to countenance Papists, by any em<g ref="char:EOLhyphen"/>ployment or trust, by or for Vs. And whereas there are now at and neere <hi>London,</hi> great Forces levyed, and in levying, and Moneys raising, by way of con<g ref="char:EOLhyphen"/>tribution, and otherwise, towards the charge of raising, or maintaining an Army, or Forces, under pretence of tste Order of our Two Houses of Parli<g ref="char:EOLhyphen"/>liament, not onely without Our consent, but con<g ref="char:EOLhyphen"/>trary to Our severall expresse Commands, publi<g ref="char:EOLhyphen"/>shed by severall Proclamations, Letters, and other<g ref="char:EOLhyphen"/>wise. And the same Forces are actually in so much forwardnesse, as that there are divers Horsemen daily Exercised, and trained in places about <hi>London</hi> and great numbers of foot in raising; and a Gene<g ref="char:EOLhyphen"/>rall, and other principall Officers are nominated and declared, and they have accepted, and taken upon them those places, and have already done se<g ref="char:EOLhyphen"/>verall Acts of Hostility against Us, which cleerly appeare to bee a levying of Warre against Vs; We have found it necessary, to raise, and levy Forces, for the defence of the true Protestant Religion, Our Person, the two Houses of Parliament, the Lawes of the Land, the Liberty and propriety of the Sub<g ref="char:EOLhyphen"/>iect, and the iust priviledges of Parliament. And now, lest any Popish Recusants should presume to offer to serve Vs herein, or procure themselves to bee listed, as Officers, or Souldiers, in Our A<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>my, without Our knowledg, and to the end that Our in<g ref="char:EOLhyphen"/>tention herein may be cleerly known, That whereas
+<pb n="5" facs="tcp:197493:3"/>one principall aim of raising these Forces, is, for the defence and maintenance of the true Protestant Re<g ref="char:EOLhyphen"/>ligion, We may not be served with Papists, as false<g ref="char:EOLhyphen"/>ly and slanderously hath been obiected against Us, We do hereby declare Our expresse Will and Plea<g ref="char:EOLhyphen"/>su e to be, and We do hereby straightly Command, That no Person or persons soever being Popish Re<g ref="char:EOLhyphen"/>cusants, shall presume to come to Our Court, con<g ref="char:EOLhyphen"/>trary to the Law in such case provided, nor any Po<g ref="char:EOLhyphen"/>pish Recusant, or Papist, take any Office, or Place, or List himselfe as a Souldier in this Service.</p>
+            <p>And to the end there may be as full discouery as can be made of such as shall, contrary to this Our Proclamation, be so listed into such Our service, We do straightly command and charge all Officers and Souldiers, who shall bee entred or listed for this Our Service, That upon the first Muster-day after they shall be so Listed, they take the Oathes of Supremacy and Allegiance, both which We shall take care shall be tendered unto them accor<g ref="char:EOLhyphen"/>ding to the Law, throughout Our Army. And if any shall continue his name in those Lists, and yet shall refuse the said Oathes, We shall not onely cashiere them, but also otherwise proceed against them, according to Law.</p>
+            <p>And as We shall be carefull that all Our Officers and Souldiers shall be duely payed, that there be no occasion or pretence of necessity amongst them to burthen any of Our Subjects, So We do here<g ref="char:EOLhyphen"/>by straightly Charge and Command, That none of the said Officers, or Souldiers, presume to take any
+<pb n="6" facs="tcp:197493:4"/>thing from any of Our good Subjects without due payment for the same, nor commit any unlawfull Violence or Outrage. And to all these Our Com<g ref="char:EOLhyphen"/>mands We expect a strict Obedience of all Our Subjects whom it may concerne, as they will An<g ref="char:EOLhyphen"/>swer the contrary at their uttermost perill. And being thus carefull that by this Our necessary Ser<g ref="char:EOLhyphen"/>vice, Our Subiects should not in any degree suffer or be wronged, so We do expect and require, That all Our Sheriffes, Iustices of Peace, Majors, Bay<g ref="char:EOLhyphen"/>liffes, and all other Our Officers and Subiects, should use their best endeavours as there shall be occasion for the assistance and convenient Supplies of Our said Officers, and Souldiers, with such things as shall be necessary and fit for them, at rea<g ref="char:EOLhyphen"/>sonable Rates and Prices.</p>
+            <closer>
+               <dateline>Given at Our Court at Yorke <date>the tenth day of August, in the eighteenth yeer of Our Reigne. 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="royal_proclamation">
+            <pb n="7" facs="tcp:197493:4"/>
+            <head>A Proclamation for putting the Lawes against Popish Recusants in due execution.</head>
+            <p>THe Kings most Excellent Maiestie, having beene formerly moved by His Parliament, for putting the Lawes in execution against Papists, whereto Hee hath from time to time still given his gracious Answers, expressing His willing<g ref="char:EOLhyphen"/>nesse thereunto: But now finding, that no such proceedings against them have been yet had, as might answer His Maiesties expectation: His Maiestie therefore, out of His Princely and pi<g ref="char:EOLhyphen"/>ous care, as well for maintaining the true Protestant Religion established in this Kingdome, as for sup<g ref="char:EOLhyphen"/>pressing by Lawfull wayes, all increase and growth of Popery; Hath thought fit to publish His Royall Pleasure therein: Wherefore His Maiesty doth hereby straightly Charge and Command, all and e<g ref="char:EOLhyphen"/>very His Judges, and Justices of Assize, Sheriffs, Iustices of Peace, and other His Officers and Mini<g ref="char:EOLhyphen"/>sters whatsoever; whom it doth any way concerne, That they, and every of them, according to the du<g ref="char:EOLhyphen"/>ties of their severall Offices and Places, do forth with and without further delay, put in due and effectuall Execution the Lawes and Statutes of this Realme, provided and made against Popish Recu<g ref="char:EOLhyphen"/>sants, and that without favour or connivence? As they tender His Majesties just and Royall Com<g ref="char:EOLhyphen"/>mands, the good of this Church and Kingdome; and will answer for neglect of their duties herein.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
